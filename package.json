@@ -46,7 +46,7 @@
     "fetch-everywhere": "^1.0.5",
     "ignore-styles": "^5.0.1",
     "js-cookie": "^2.2.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "morgan": "^1.9.1",
     "prop-types": "^15.6.2",
     "react": "^16.4.2",
